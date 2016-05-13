@@ -6,7 +6,7 @@
 - Library / Modules used: matplotlib (static + less interactve)
 - For, more interactive charts you can switch to other availble modules.
 
-## Reach me
+## Reach me -
 
 For any query, ping me on 
 Twitter- @jabhij
