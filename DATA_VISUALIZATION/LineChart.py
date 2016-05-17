@@ -11,5 +11,5 @@ plt.plot(Years, EarthQuakes, color='red', marker='o', linestyle='solid')
 plt.title('Earthquakes Per Year')
 # Labels
 plt.xlabel('Years')
-plt.ylabel('Occurance / Year')
+plt.ylabel('Occurrence / Year')
 plt.show()
