@@ -12,7 +12,7 @@ plt.bar(val, EarthQuakes, color='black')
 plt.title('Earthquakes Per Year')
 # Labels
 plt.xlabel('Years')
-plt.ylabel('Occurance / Year')
+plt.ylabel('Occurrence / Year')
 # Ticks @ x-axis (Years)
 plt.xticks([i+0.5 for i in Years], Years)
 plt.show()
