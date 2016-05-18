@@ -3,7 +3,8 @@
 """
 
 """
-For Better Understanding, try to compare it with: \w
+For Better Understanding, try to compare it
+with: \w, \D
 """
 
 # Importing 're' Module
