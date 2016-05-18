@@ -2,6 +2,12 @@
 \w	-- Matches word characters.
 """
 
+"""
+For Better Understanding, try to compare it
+with: \S, \D
+"""
+
+# Importing 're' Module
 import re
 string = 'I love Python!'
 
