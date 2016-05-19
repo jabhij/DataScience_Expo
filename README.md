@@ -3,11 +3,13 @@
 - This repo is for data science enthusiasts. 
 - Repo contains snippets for data science and related core areas like data visualization, analysis etc.
 - IDE Used: Pycharm Community Eddition
+- Library / Modules used: 
+  - matplotlib (static + less interactve): Data Visualization
+  - re : Regular Expressions
 - Data: Rough Data of natural disasters (Earthquakes)
-- Library / Modules used: matplotlib (static + less interactve)
 - For, more interactive charts you can switch to other availble modules.
 
-## Reach me -
+## Catch me -
 
 For any query, ping me on 
 Twitter- @jabhij
