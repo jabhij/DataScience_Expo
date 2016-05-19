@@ -5,7 +5,6 @@
 - IDE Used: Pycharm Community Eddition
 - Library / Modules used: 
   - matplotlib (static + less interactve): Data Visualization
-  - re : Regular Expressions
 - Data: Rough Data of natural disasters (Earthquakes)
 - For, more interactive charts you can switch to other availble modules.
 
