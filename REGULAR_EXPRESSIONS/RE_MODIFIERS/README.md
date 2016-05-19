@@ -11,3 +11,4 @@
 - re.S    --    Makes a period (dot) match any character, including a newline.
 - re.U    --    Interprets letters according to the Unicode character set.
 - re.X    --    Permits "cuter" regular expression syntax.
+n
