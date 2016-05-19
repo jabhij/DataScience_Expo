@@ -5,8 +5,6 @@
 
 ## Available Modifiers
 
-### Modifiers    --    Description
-
 - re.I    --    Performs case-insensitive matching.
 - re.L    --    Interprets words according to the current locale.
 - re.M    --    Makes $ match the end of a line and makes ^ match the start of any line.
