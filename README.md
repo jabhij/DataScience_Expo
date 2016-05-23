@@ -6,7 +6,7 @@
 - Library / Modules used: 
   - matplotlib (static + less interactve): Data Visualization
 - Data: Rough Data of natural disasters (Earthquakes)
-- For, more interactive charts you can switch to other availble modules.
+- For, more interactive charts you can switch to other availble modules..
 
 ## Catch me -
 
