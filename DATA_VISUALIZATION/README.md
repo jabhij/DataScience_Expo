@@ -5,5 +5,5 @@
 
 ## Reach me -
 
-Twitter- @jabhij
-Web: www.letustweak.com
+- Twitter- @jabhij
+- Web: www.letustweak.com
