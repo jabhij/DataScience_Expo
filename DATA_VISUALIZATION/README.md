@@ -1,7 +1,8 @@
-## Data
+## Data Visualization 
 
+- Language: Python
+- Module: matplotlib
 - Data: Natural Disasters based (Earthquakes)
-- Module: matplotlib 
 
 ## Reach me -
 
