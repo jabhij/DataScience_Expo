@@ -9,4 +9,4 @@
 - Twitter- @jabhij
 - Web: www.letustweak.com
 
-Hop, it helps! ヅ
+Hope, it helps! ヅ
