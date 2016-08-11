@@ -12,6 +12,6 @@
 
 For any query, ping me on 
 - Twitter: [@jabhij] (https://twitter.com/jabhij)
-- Web: [LetUsTweak] (letustweak.com)
+- Web: [LetUsTweak] (http://letustweak.com)
 
 Hope, it helps!! :)
