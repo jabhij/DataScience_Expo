@@ -11,7 +11,7 @@
 ## Catch me -
 
 For any query, ping me on 
-Twitter- @jabhij
-Web- www.letustweak.com
+- Twitter: [@jabhij] (https://twitter.com/jabhij)
+- Web: [LetUsTweak] (www.letustweak.com)
 
-I hope, it helps!! :)
+Hope, it helps!! :)
